@@ -5,8 +5,8 @@ This SaltState is for people who want to try Flask for the first time (__DO NOT 
 New users are able to modify test templates and their homepage at localhost/~USERNAME/. Flask is a program
 that use to show applications in web format.
 
-![Image](/screenshots/result.png)
-![Image](/screenshots/curllocalhost.png)
+![Image](/saltflask/screenshots/result.png)
+![Image](/saltflask/screenshots/curllocalhost.png)
 
 # How to use
 
@@ -33,11 +33,11 @@ that use to show applications in web format.
 
 	`python3 python/testTemplate.py`
 
-![Image](/screenshots/flasktemplate.png)
+![Image](/saltflask/screenshots/flasktemplate.png)
 
 - New users have their own public_html/index.html file that they can edit
 
-![Image](/screenshots/publichtml.png)
+![Image](/saltflask/screenshots/publichtml.png)
 
 # Credits
 
