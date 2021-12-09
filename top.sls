@@ -1,0 +1,4 @@
+base:
+  minion:
+   - gamer
+   - saltflask
