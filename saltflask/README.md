@@ -38,7 +38,3 @@ that use to show applications in web format.
 - New users have their own public_html/index.html file that they can edit
 
 ![Image](/saltflask/screenshots/publichtml.png)
-
-# Credits
-
-Huge thanks to [Tero Karvinen](https://terokarvinen.com/) for this course! It was named Palvelinten hallinta - ICT4TN022-3014

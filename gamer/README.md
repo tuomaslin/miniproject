@@ -24,15 +24,15 @@ Mumble voIP program and Youtube-dl to download your favourite Youtube videos.
 - Automatically installs Steam and accepts user license
 - Installs Mumble, Speedtest-cli, Bash-Completion and Youtube-dl
 
-![Image](/gamer/screenshots/steam.png)
-
 - To open Steam installer type `steam` to console
 
-![Image](/gamer/screenshots/mumble.png)
+![Image](/gamer/screenshots/steam.png)
 
 - To open Mumble type `mumble` to console
 
-![Image](/gamer/screenshots/speedtest.png)
+![Image](/gamer/screenshots/mumble.png)
 
 - To run Speedtest-cli type `speedtest` to console
+
+![Image](/gamer/screenshots/speedtest.png)
 
