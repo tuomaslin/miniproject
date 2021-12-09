@@ -9,3 +9,18 @@ By using this top.sls file user is able to call two different SaltStates. Both c
 - Further instructions on how to use States on their own are in their folders
 
 ![Image](/screenshots/top.png)
+
+# How to use
+
+- First of all you need atleast Salt-master (preferably also Salt-minion)
+- Connect Salt.minion to Salt-master [(Instructions)](https://tuomaslintula.wordpress.com/2021/11/04/tehtava-h2-2/)
+- Git clone this repository to `/srv/salt/`
+- Use command to run Saltstate
+
+	## From master to minion
+		sudo salt '*' state.apply
+	
+	## On master only
+		sudo salt-call --local state.apply
+
+- That's it!
