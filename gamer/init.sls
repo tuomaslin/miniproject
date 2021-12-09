@@ -1,18 +1,3 @@
-#dpkg --add-architecture i386:
-#  cmd.run:
-#   - unless: 'apt install steam | grep newest'
-
-#pkg:
-#  module.run:
-#  - name: pkg.refresh_db
-
-#/etc/apt/sources.list:
-#  file.managed:
-#   - source: salt://gamer/sources.list
-
-#software-properties-common:
-#  pkg.installed
-
 programs wanted:
   pkg.installed:
     - pkgs:
