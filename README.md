@@ -14,6 +14,10 @@ By using this top.sls file user is able to call two different SaltStates. Both c
 - First of all you need atleast Salt-master (preferably also Salt-minion)
 - Connect Salt.minion to Salt-master [(Instructions)](https://tuomaslintula.wordpress.com/2021/11/04/tehtava-h2-2/)
 - Git clone this repository to `/srv/salt/`
+- Replace `minion` in top.sls file with the name of your minion or '*' to run it for all minions.
+
+![Image](/screenshots/topss.png)
+
 - Use command to run Saltstate
 
 	## From master to minion
@@ -23,3 +27,5 @@ By using this top.sls file user is able to call two different SaltStates. Both c
 		sudo salt-call --local state.apply
 
 - That's it!
+
+This has only been tested with Debian11!
