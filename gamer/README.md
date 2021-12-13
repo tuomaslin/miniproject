@@ -38,5 +38,5 @@ Mumble voIP program and Youtube-dl to download your favourite Youtube videos.
 
 # Sources
 
-- defconf formula: [https://askubuntu.com/questions/506909/how-can-i-accept-the-lience-agreement-for-steam-prior-to-apt-get-install/1017487#1017487][https://askubuntu.com/questions/506909/how-can-i-accept-the-lience-agreement-for-steam-prior-to-apt-get-install/1017487#1017487]
-- Steam repository [http://repo.steampowered.com/steam/pool/steam/s/steam/][http://repo.steampowered.com/steam/pool/steam/s/steam/]
+- Debconf formula: [https://askubuntu.com/questions/506909/how-can-i-accept-the-lience-agreement-for-steam-prior-to-apt-get-install/1017487#1017487][https://askubuntu.com/questions/506909/how-can-i-accept-the-lience-agreement-for-steam-prior-to-apt-get-install/1017487#1017487]
+- Steam repository: [http://repo.steampowered.com/steam/pool/steam/s/steam/][http://repo.steampowered.com/steam/pool/steam/s/steam/]
